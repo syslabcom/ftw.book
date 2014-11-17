@@ -2,8 +2,8 @@ Changelog
 =========
 
 
-2.2.7 (2012-07-17)
-------------------
+2.2.7-slc (2014-11-17)
+----------------------
 
 - Fix floating problem with full width images in paragraph blocks.
   [jone]
